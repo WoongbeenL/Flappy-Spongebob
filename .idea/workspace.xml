@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b2b3f05-d506-415e-9870-fdc9c81ef96d" name="Default" comment="" />
+    <list default="true" id="5b2b3f05-d506-415e-9870-fdc9c81ef96d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/core/assets/badlogic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/core/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/core/src/creatingspongebob/game/MyGdxGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/desktop/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/desktop/src/creatingspongebob/game/desktop/DesktopLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Scratches/Creating Spongebob/settings.gradle" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,26 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyGdxGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/Scratches/Creating Spongebob/core/src/creatingspongebob/game/MyGdxGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DesktopLauncher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code/Scratches/Creating Spongebob/desktop/src/creatingspongebob/game/desktop/DesktopLauncher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,135 +57,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
+              <item name="Flappy Spongebob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flappy Spongebob" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
+              <item name="Flappy Spongebob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flappy Spongebob" type="462c0819:PsiDirectoryNode" />
               <item name="Code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
+              <item name="Flappy Spongebob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flappy Spongebob" type="462c0819:PsiDirectoryNode" />
               <item name="Code" type="462c0819:PsiDirectoryNode" />
               <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="creatingspongebob" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="creatingspongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="creatingspongebob" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="creatingspongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flappy-Spongebob" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flappy-Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratches" type="462c0819:PsiDirectoryNode" />
-              <item name="Creating Spongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="creatingspongebob" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/Scratches/Background Test/core/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -301,6 +195,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Code/Scratches/Creating Spongebob/core/src/creatingspongebob/game/MyGdxGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Scratches/Creating Spongebob/desktop/src/creatingspongebob/game/desktop/DesktopLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/Scratches/Creating Spongebob/core/src/creatingspongebob/game/MyGdxGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
