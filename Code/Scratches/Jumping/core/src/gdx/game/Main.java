@@ -19,7 +19,7 @@ public class Main extends ApplicationAdapter {
     @Override
     public void create() {
         batch = new SpriteBatch();
-        img = new Texture("badlogic.jpg");
+        img = new Texture("Spongebob.png");
         sprite = new Sprite(img);
         fX = Gdx.graphics.getWidth() / 4 - sprite.getWidth() / 2;
         fY = Gdx.graphics.getHeight() / 2 - sprite.getHeight();
@@ -48,7 +48,7 @@ public class Main extends ApplicationAdapter {
             fVelo += 6;
         }
         System.out.println(fVelo);
-        fVelo = MathUtils.clamp(fVelo, -4, 10);
+        fVelo = MathUtils.clamp(fVelo, -5, 4);
     }
 
     @Override
