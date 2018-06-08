@@ -2,6 +2,7 @@ package gdx.game;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.Input;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
@@ -13,6 +14,7 @@ public class Main extends ApplicationAdapter {
     Texture img;
     Sprite sprite;
     TextureRegion trBackground;
+    float fX, fY, fVelo;
 
     @Override
     public void create() {
@@ -20,9 +22,10 @@ public class Main extends ApplicationAdapter {
         trBackground = new TextureRegion(new Texture("background.png"), 0, 0, 700, 525);
         img = new Texture("Spongebob.png");
         sprite = new Sprite(img);
-        sprite.setPosition(
-                Gdx.graphics.getWidth() / 4 - sprite.getWidth() / 2,
-                Gdx.graphics.getHeight() / 2 - sprite.getHeight());
+        fX = Gdx.graphics.getWidth() / 4 - sprite.getWidth() / 2;
+        fY = Gdx.graphics.getHeight() / 2 - sprite.getHeight();
+        sprite.setPosition(fX, fY);
+        sprite.setScale(0.7f);
     }
 
     @Override
@@ -31,7 +34,13 @@ public class Main extends ApplicationAdapter {
         Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
         batch.begin();
         batch.draw(trBackground, 0, 0);
-        batch.draw(trBackground, 0, Gdx.graphics.getHeight());
+
+        sprite.setY(fY);
+        fY += fVelo;
+
+        if (Gdx.input.isKeyJustPressed(Input.Keys.SPACE)) {
+            fVelo += 6;
+        }
         sprite.draw(batch);
         batch.end();
     }
