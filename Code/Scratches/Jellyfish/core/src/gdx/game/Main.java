@@ -9,11 +9,22 @@ import com.badlogic.gdx.graphics.g2d.Sprite;
 
 public class Main extends ApplicationAdapter {
     SpriteBatch batch;
+    Texture img;
+    Sprite sprite;
 
     @Override
     public void create() {
+
         batch = new SpriteBatch();
+        img = new Texture("Jellyfish.png");
+        sprite = new Sprite(img);
+        sprite.setPosition(
+                Gdx.graphics.getWidth() / 4 - sprite.getWidth() / 2,
+                Gdx.graphics.getHeight() / 2 - sprite.getHeight());
     }
+
+
+
 
     @Override
     public void render() {
