@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f17d98c7-7b7d-42ca-9d6f-9ed81803f7ff" name="Default" comment="" />
+    <list default="true" id="8a94d34f-eca6-4916-b8d4-ab1e9402e00c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/core/.gradle/" />
@@ -23,12 +23,26 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/gdx/game/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\yagna6179\.gradle\wrapper\dists\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\woonl9675\.gradle\wrapper\dists\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -41,14 +55,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Basic Scratch" />
+              <option name="name" value="Jellyfish" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="Basic Scratch" />
+                <option name="name" value="Jellyfish" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -70,12 +84,12 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'Basic Scratch'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'Jellyfish'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'Basic Scratch'." />
+                <option name="description" value="Displays the sub-projects of root project 'Jellyfish'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -94,7 +108,7 @@
                 <option name="name" value="cleanEclipse" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'Basic Scratch'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'Jellyfish'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
@@ -104,7 +118,7 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'Basic Scratch'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Jellyfish'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -141,7 +155,7 @@
                 <option name="name" value="eclipseClasspath" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'Basic Scratch'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'Jellyfish'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -156,7 +170,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'Basic Scratch' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'Jellyfish' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -189,7 +203,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'Basic Scratch'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Jellyfish'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -214,7 +228,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'Basic Scratch'." />
+                <option name="description" value="Displays all dependencies declared in root project 'Jellyfish'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -254,7 +268,7 @@
                 <option name="name" value="eclipseProject" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'Basic Scratch'." />
+                <option name="description" value="Displays the properties of root project 'Jellyfish'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -618,7 +632,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3057453330307" />
+        <entry key="$PROJECT_DIR$" value="10701181716402" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1891759957" />
         <entry key="$PROJECT_DIR$/core/build.gradle" value="2971590108" />
         <entry key="$PROJECT_DIR$/desktop/build.gradle" value="2761304507" />
@@ -657,7 +672,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="Basic Scratch" />
+              <option name="name" value="Jellyfish" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.6-all/bcst21l2brirad8k2ben1letg/gradle-4.6/src/announce" />
@@ -816,17 +831,19 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../../../Background Test" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Releases/Version 1.0" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Releases/Version 2.1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../Background" value="PREVIEW" />
+        <entry key="D:/Woomgbeen/GdxOne" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Background Test" value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-        <entry key="$PROJECT_DIR$/../Creating Spongebob" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../Jumping" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../../../GdxOne" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../InputDemo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../TextDemo" value="PREVIEW" />
       </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/src/gdx/game/Main.java" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -840,10 +857,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Jellyfish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jellyfish" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jellyfish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jellyfish" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jellyfish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jellyfish" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jellyfish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jellyfish" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="core" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -909,16 +954,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f17d98c7-7b7d-42ca-9d6f-9ed81803f7ff" name="Default" comment="" />
-      <created>1528726548640</created>
+      <changelist id="8a94d34f-eca6-4916-b8d4-ab1e9402e00c" name="Default" comment="" />
+      <created>1528811090173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528726548640</updated>
+      <updated>1528811090173</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -953,10 +999,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/gdx/game/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" selection-end-line="31" />
+        <state relative-caret-position="153">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -965,6 +1021,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
